@@ -1,0 +1,117 @@
+/* Headerlogo */
+.header-logo{
+  height: 30px;
+}
+
+
+/* hearderlinks */
+#navigation{
+  background-color: #EAEAEA;
+  padding-right: 10%;
+}
+
+
+/* slierImage
+.slider-image{
+  height: 25rem;
+} */
+
+#videos{
+  padding: 7% 15%;
+
+}
+
+h2{
+  margin:5% 0;
+}
+
+
+#about{
+  padding: 7% 15%;
+
+}
+
+.about-text{
+  font-size: 1.2rem;
+  line-height: 1.5;
+}
+.about-image{
+  width: 100%;
+}
+
+
+
+.team-column{
+  text-align: center;
+
+}
+#team{
+  padding: 7% 15%;
+
+}
+.team-header{
+  background-color: #AC2124;
+  color: #EAEAEA
+}
+
+.fullscreen-bg__video{
+  width: 100%;
+  height: auto;
+}
+
+video{
+  object-fit: contain;
+}
+
+#services{
+  padding: 7% 15%;
+}
+.card-img-top{
+  margin-top: 8%;
+  border-radius: 2%;
+}
+
+.service-card{
+  border-width: thick;
+  text-align: center;
+}
+
+.service-btn{
+  background-color: #AC2124;
+  color: #EAEAEA;
+}
+.service-card:hover{
+  background-color: #ee9595;
+}
+.map-img{
+  width:100%
+}
+#global-presence{
+  padding: 7% 15%;
+}
+#footer{
+  padding: 7% 15%;
+  background-color: #292929;
+  color: #EAEAEA;
+}
+.logo-image{
+  width: 100%;
+}
+.footer-cert{
+  width: 45%;
+}
+.social{
+  margin: 3%;
+}
+.social:hover{
+  background-color: #AC2124;
+}
+.footer-column{
+  margin:1%;
+}
+#Clients{
+  padding: 7% 10%;
+}
+.client-logo{
+  height: 50%;
+}
